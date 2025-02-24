@@ -1,19 +1,20 @@
-# Load required libraries
+# Loading the required libraries
 library(plotly)
 library(htmlwidgets)
 
-# 1. Read the CSV (relative path):
+# Reading the CSV via a relative path (have it in your working directory)
 df <- read.csv("Horner_Mota_Ancestry.csv", row.names = 1)
 
-# Create a new column called "Population" from the row names,
+# Creating a new column called "Population" from the row names,
 # preserving their order in the data frame.
 df$Population <- factor(rownames(df), levels = rownames(df))
 
-# 2. Create an interactive bar chart showing Mota ancestry in purple,
+# Creating an interactive bar chart showing Mota ancestry in purple
+# as a homage to Hodgson et al. 2014's Omotic component (kekkekeke)
 # using "Population" for the x-axis in the same order as in the CSV.
 p <- plot_ly(
   data = df,
-  x = ~Population,  # Now a factor in the original CSV order
+  x = ~Population,  # A factor in the original CSV order
   y = ~Mota,        # The 'Mota' column
   type = 'bar',
   marker = list(color = 'purple')  # Purple bars
@@ -24,8 +25,5 @@ p <- plot_ly(
     yaxis = list(title = "Mota %")
   )
 
-# 3. Save the interactive chart as an HTML file
+# Saving the interactive chart as an HTML file
 saveWidget(as_widget(p), "Mota_Ancestry_Chart.html", selfcontained = TRUE)
-
-# The file "Mota_Ancestry_Chart.html" will appear in your working directory.
-# Upload it to Git (or elsewhere) and embed it (e.g., via an <iframe> in Blogger).
