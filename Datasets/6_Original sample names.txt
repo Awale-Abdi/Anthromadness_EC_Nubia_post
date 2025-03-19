@@ -1,9 +1,9 @@
-Kenya-Early-PastoralN
-Kenya-HyraxHill-PastoralN
-Kenya-IA-PastoralN
-Kenya-IA-PastoralN-Outlier
-Kenya-LukenyaHill-PastoralN
-Kenya-MoloCave-PastoralN
-Kenya-PastoralN
-Kenya-PastoralN-Elmenteitan
-Kenya-PastoralN-Elmenteitan-Outlier
+Kenya-Early-PastoralN = Early-PN
+Kenya-HyraxHill-PastoralN = HyraxHill- PN
+Kenya-IA-PastoralN = IA-PN
+Kenya-IA-PastoralN-Outlier = IA-PN-Outlier
+Kenya-LukenyaHill-PastoralN = LukenyaHill-PN
+Kenya-MoloCave-PastoralN = MoloCave-PN
+Kenya-PastoralN = PN
+Kenya-PastoralN-Elmenteitan = Elementeitan
+Kenya-PastoralN-Elmenteitan-Outlier = Elmenteitan-Outlier
