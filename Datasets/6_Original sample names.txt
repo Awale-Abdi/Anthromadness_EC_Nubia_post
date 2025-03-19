@@ -1,0 +1,9 @@
+Kenya-Early-PastoralN
+Kenya-HyraxHill-PastoralN
+Kenya-IA-PastoralN
+Kenya-IA-PastoralN-Outlier
+Kenya-LukenyaHill-PastoralN
+Kenya-MoloCave-PastoralN
+Kenya-PastoralN
+Kenya-PastoralN-Elmenteitan
+Kenya-PastoralN-Elmenteitan-Outlier
