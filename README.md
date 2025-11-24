@@ -14,7 +14,7 @@ A central question examined here is whether East Cushitic-speaking groups:
   
   **OR**
   
-- Whether they reflect **multiple population waves** into the Horn
+- Whether they reflect **multiple population waves from the North** into the Horn
 
 The working model suggests that:
 
