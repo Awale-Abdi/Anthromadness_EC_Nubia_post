@@ -10,11 +10,11 @@ This repository accompanies my long-form analysis on the **origins, dispersals, 
 
 A central question examined here is whether East Cushitic-speaking groups:
 
-- **Originated exclusively inside the Horn after 3500–3000 BCE**
+- Originated exclusively inside the Horn after 3500–3000 BCE
   
   **OR**
   
-- Whether they reflect **multiple population waves**, including expansions from the Nile Valley into the Horn of Africa **during the Bronze Age**.
+- Whether they reflect **multiple population waves** into the Horn
 
 The working model suggests that:
 
