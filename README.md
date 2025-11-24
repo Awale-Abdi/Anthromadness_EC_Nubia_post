@@ -1,4 +1,4 @@
-# **Anthromadness – East Cushites in Nubia Post**
+# <center>**Anthromadness – East Cushites in Nubia Post**</center>
 
 ## **Overview**
 
