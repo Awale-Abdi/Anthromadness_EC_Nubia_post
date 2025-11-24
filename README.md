@@ -1,5 +1,8 @@
-# <center>**Anthromadness – East Cushites in Nubia Post**</center>
+<div align="center">
 
+# **Anthromadness – East Cushites in Nubia Post**
+
+</div>
 ## **Overview**
 
 This repository accompanies my long-form analysis on the **origins, dispersals, and deep-time history of East Cushitic and broader Horn African populations**. It integrates **population genetics, comparative linguistics, archaeology, craniometrics, and cultural anthropology** to explore a revised model of how Cushitic-speaking peoples emerged in the Horn of Africa.
