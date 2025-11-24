@@ -16,9 +16,9 @@ A central question examined here is whether East Cushitic-speaking groups:
 
 The working model suggests that:
 
-- **East Cushitic ancestors were likely present in Wawat and Kerma regions** of modern Egypt and Sudan during the Bronze Age  
-- **Southward movements** into the Horn of Africa possibly occurred due to multiple factors such as a boom period and/or later Nilo-Saharan and Egyptian expansions intensifying (circa 2500–1500 BCE)  
-- These expanding East Cushitic speaking groups contributed substantially to **modern Horn Cushitic and Ethiosemitic ancestry** and to their overall cultural makeup. 
+- **East Cushitic ancestors were likely present in Wawat and Kerma regions** during the Bronze Age  
+- **Southward movements** into the Horn of Africa like occurred in waves with East Cushites as a later wave  
+- These East Cushites contributed substantially to modern Horn African Cushites & Ethiosemites
 
 This repository uses **Principal Component Analysis (PCA)**, **stacked ancestry charts**, **interactive heatmaps**, and **mMonte-based admixture modeling** (including a custom modified algorithm) to test whether:
 
