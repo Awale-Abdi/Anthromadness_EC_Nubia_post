@@ -36,7 +36,7 @@ These analyses form the empirical foundation of the corresponding blog post, wit
 
 ## **Technical Implementation**
 
-This project is built entirely in **R**, using:
+This project is built entirely in **R**, using multiple libraries such as:
 
 ```r
 library(readr)
@@ -49,6 +49,7 @@ library(plotly)
 library(reshape2)
 library(ggdendro)
 library(ape)
+library(DT)
 library(htmlwidgets)
 ```
 
