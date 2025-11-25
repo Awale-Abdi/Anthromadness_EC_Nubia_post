@@ -34,60 +34,6 @@ The working model based on the analyses conducted suggests that:
 
 These analyses form the empirical foundation of the corresponding blog post, with all modeling conducted using Eurogenes Global25 PCA coordinates, a widely used comparative framework that has seen growing adoption in academic theses, conference abstracts, and several peer-reviewed papers as a reliable high-resolution PCA space for both ancient and modern genomes.
 
-## **Repository Structure**
-
-### 📁 **Datasets/**
-Input files used across all analyses:
-
-- Arabio–Egyptian basal proportion datasets  
-- Pastoral Neolithic coordinates  
-- Mota/Ethio-HG ancestry datasets  
-- Ancient Egyptian & Sudanese proxies (Natufian, Iberomaurusian, Dinka)  
-- Yemeni & Arabian (PES-related) datasets  
-- Egyptian–Yemeni–Bedouin heatmap matrices  
-- **mMonte source and target files** for admixture modeling  
-
-### 📁 **Outputs/**
-Generated visualizations and results:
-
-- PCA plots (prehistoric, pastoral, modern, MENA-focused)  
-- Interactive heatmaps (Egyptian–Yemeni, Bedouin–Egyptian, Yemeni–Ethio-HG)  
-- PN ancestry charts & scaled proportions  
-- Custom mMonte admixture results (distance% + mixture tables)  
-- Arabio–Egyptian basal proportion results  
-
-### 📁 **R Scripts/**
-All analytical code for:
-
-#### **PCA Generation**
-- Prehistoric PCA  
-- Pastoral Neolithic PCA  
-- Modern Cushitic/Egyptian/Yemeni PCA  
-- Labeled PCA variants  
-- MENA PCA (7D Vahaduo-style reduction)
-
-#### **Ancestry Proportion Models**
-- PN ancestry decomposition  
-- Scaled PN ancestry  
-- Later admixture proportions (mMonte-based)  
-- Arabio–Egyptian Basal Proportion calculator  
-
-#### **Heatmaps & Tables**
-- Yemeni–Egyptian heatmaps  
-- Bedouin–Egyptian heatmaps  
-- Ethio-HG & Yemeni matrices  
-- Yemeni and Ma’rib ancestry tables  
-
-#### **Custom mMonte Simulation Engine**
-- `1_Modified_nMonte.R` → A generalized and improved version of nMonte  
-  - Accepts **multiple target samples at once**  
-  - Produces **distance%** + **population mixture %**  
-  - Exports a **full summary CSV**  
-- `1_Script for running nMonte.R`  
-- Result aggregation scripts  
-
-This modification is a notable computational enhancement and demonstrates the author's ability to customize Monte-Carlo-based optimization algorithms.
-
 ## **Technical Implementation**
 
 This project is built entirely in **R**, using:
@@ -129,21 +75,42 @@ git clone https://github.com/Awale-Abdi/Anthromadness_EC_Nubia_post.git
 cd Anthromadness_EC_Nubia_post
 ```
 
-### **2. Keep All Datasets in /Datasets**
+### **2. Keep All Datasets in `/Datasets/`**
 
-All R scripts load files using relative paths, so the folder structure must remain unchanged.
+All analyses rely on the datasets stored in:
 
-### **3. Run Analyses**
+**`/Datasets/`**
 
-Open R or RStudio and execute any script inside:
+Every R script uses **relative paths**, so **do not rename or move** this folder.
 
-R Scripts/
+The datasets include:
+- Pastoral Neolithic ancestry files  
+- Mota/Ethio-HG datasets  
+- Arabio–Egyptian basal proportion files  
+- Ancient Egyptian & Sudanese proxies  
+- Yemeni & Bedouin matrices  
+- mMonte `source.txt` and `target.txt` files  
 
+As long as these files remain inside `/Datasets/`, all scripts will run without errors.
 
-All outputs (plots, tables, HTML heatmaps, mMonte results) will be automatically written to:
+### **3. Run the R Scripts**
 
-Outputs/
+Open **R** or **RStudio**, then run any script in:
 
+**`/R Scripts/`**
+
+Each script corresponds directly to one visualization or analysis:
+
+- PCA plots  
+- Ancestry proportion charts  
+- Heatmaps  
+- Basal proportion metrics  
+- mMonte multi-target simulations  
+- Yemeni/Egyptian table generators  
+
+Outputs will match those contained in the `/Outputs/` folder.  If any issues or script errors arise, please contact the author, **Awale Abdi**.
+
+---
 ## Contact
 
 📌 Email: Awaleiabdi@outlook.com
