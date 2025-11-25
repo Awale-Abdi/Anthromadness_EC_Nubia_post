@@ -22,14 +22,6 @@ The working model suggests that:
 - **Southward movements** into the Horn of Africa like occurred in waves with East Cushites as a later wave  
 - These East Cushites contributed substantially to modern Horn African Cushites & Ethiosemites
 
-This repository uses **Principal Component Analysis (PCA)**, **stacked ancestry charts**, **interactive heatmaps**, and **mMonte-based admixture modeling** (including a modified algorithm) to test whether:
-
-- Kenyan Pastoral Neolithic individuals represent only one **early** wave  
-- Modern Horn Cushites require **additional** waves from Sudan/Egypt (supported by Y-DNA E-Z813 timing)   
-- Iron-Age Yemeni ancestry for now best explains the **later West Asian component** in Horn Africans  
-
-All analyses are performed using **Eurogenes Global25 PCA coordinates**.
-
 ---
 
 ## **What This Repository Demonstrates**
@@ -42,7 +34,7 @@ All analyses are performed using **Eurogenes Global25 PCA coordinates**.
 - Visualization of Arabia/Egypt/Levant homogeny over the last ~3,000 years  
 - **Cushitic–Ethiosemitic clines** observed through PCA and ancestry charts  
 
-These analyses form the empirical foundation of the corresponding blog post.
+These analyses form the empirical foundation of the corresponding blog post with all analyses are performed using **Eurogenes Global25 PCA coordinates**.
 
 ---
 
