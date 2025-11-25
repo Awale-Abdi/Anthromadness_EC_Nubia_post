@@ -16,25 +16,23 @@ A central question examined here is whether East Cushitic-speaking groups:
   
 - Whether they reflect **multiple population waves from the North** into the Horn
 
-The working model suggests that:
+The working model based on the analyses conducted suggests that:
 
 - **East Cushitic ancestors were likely present in Wawat and Kerma regions** during the Bronze Age  
 - **Southward movements** into the Horn of Africa like occurred in waves with East Cushites as a later wave  
 - These East Cushites contributed substantially to modern Horn African Cushites & Ethiosemites
 
-## **What This Repository Ultimately Demonstrates**
+## **What This Repository Demonstrates In Terms Of Data**
 
 - Structure of **Modern Horn populations**
-- Variation within the **Pastoral Neolithic** and why it alone cannot explain Cushitic ancestry  
+- Structure of the **Pastoral Neolithic** samples
 - **Egyptian, Sudanese, and Arabian** affinities tested using Natufian, Iberomaurusian, Dinka, and Yemeni proxies  
 - **Customized mMonte admixture modeling utilizing R** for multi-wave ancestry reconstruction  
 - PCA-based tests for **Egypt vs Arabia vs Sudan** contributions  
-- Visualization of Arabia/Egypt/Levant homogeny over the last ~3,000 years  
+- Visualization of Arabia/Egypt/Levant similarity over the last ~3,000 years  
 - **Cushitic–Ethiosemitic clines** observed through PCA and ancestry charts  
 
-These analyses form the empirical foundation of the corresponding blog post with all analyses are performed using **Eurogenes Global25 PCA coordinates**.
-
----
+These analyses form the empirical foundation of the corresponding blog post, with all modeling conducted using Eurogenes Global25 PCA coordinates, a widely used comparative framework that has seen growing adoption in academic theses, conference abstracts, and several peer-reviewed papers as a reliable high-resolution PCA space for both ancient and modern genomes.
 
 ## **Repository Structure**
 
