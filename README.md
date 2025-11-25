@@ -146,7 +146,7 @@ All outputs (plots, tables, HTML heatmaps, mMonte results) will be automatically
 
 Outputs/
 
-### Contact
+## Contact
 
 📌 Email: Awaleiabdi@outlook.com
 
