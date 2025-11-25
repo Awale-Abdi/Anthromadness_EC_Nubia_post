@@ -22,9 +22,7 @@ The working model suggests that:
 - **Southward movements** into the Horn of Africa like occurred in waves with East Cushites as a later wave  
 - These East Cushites contributed substantially to modern Horn African Cushites & Ethiosemites
 
----
-
-## **What This Repository Demonstrates**
+## **What This Repository Ultimately Demonstrates**
 
 - Structure of **Modern Horn populations**
 - Variation within the **Pastoral Neolithic** and why it alone cannot explain Cushitic ancestry  
@@ -51,8 +49,6 @@ Input files used across all analyses:
 - Egyptian–Yemeni–Bedouin heatmap matrices  
 - **mMonte source and target files** for admixture modeling  
 
----
-
 ### 📁 **Outputs/**
 Generated visualizations and results:
 
@@ -61,10 +57,6 @@ Generated visualizations and results:
 - PN ancestry charts & scaled proportions  
 - Custom mMonte admixture results (distance% + mixture tables)  
 - Arabio–Egyptian basal proportion results  
-
-Each script writes its output directly here.
-
----
 
 ### 📁 **R Scripts/**
 All analytical code for:
@@ -98,8 +90,6 @@ All analytical code for:
 
 This modification is a notable computational enhancement and demonstrates the author's ability to customize Monte-Carlo-based optimization algorithms.
 
----
-
 ## **Technical Implementation**
 
 This project is built entirely in **R**, using:
@@ -118,8 +108,6 @@ library(ape)
 library(htmlwidgets)
 ```
 
----
-
 ## **Computational Methods**
 
 - **PCA** performed on **25-dimensional Eurogenes Global25 matrices** using `prcomp()`
@@ -134,8 +122,6 @@ library(htmlwidgets)
   - rescales remaining components proportionally
   - outputs both individual-sample and average ancestry matrices
   - Several PCA figures and charts were manually refined in Inkscape for publication-quality visuals
-
----
 
 ## **How to Use**
 
@@ -160,9 +146,7 @@ All outputs (plots, tables, HTML heatmaps, mMonte results) will be automatically
 
 Outputs/
 
----
-
-Contact
+### Contact
 
 📌 Email: Awaleiabdi@outlook.com
 
