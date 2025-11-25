@@ -19,7 +19,7 @@ A central question examined here is whether East Cushitic-speaking groups:
 The working model based on the analyses conducted suggests that:
 
 - **East Cushitic ancestors were likely present in Wawat and Kerma regions** during the Bronze Age  
-- **Southward movements** into the Horn of Africa like occurred in waves with East Cushites as a later wave  
+- **Southward movements** into the Horn of Africa likely occurred in waves with East Cushites as a later wave  
 - These East Cushites contributed substantially to modern Horn African Cushites & Ethiosemites
 
 ## **What This Repository Demonstrates In Terms Of Data**
@@ -109,7 +109,7 @@ library(htmlwidgets)
 ## **Computational Methods**
 
 - **PCA** performed on **25-dimensional Eurogenes Global25 matrices** using `prcomp()`
-- Dimensionality reduced to **7 principal components** to approximate **Vahaduo-style scaling**
+- Dimensionality reduced to **7 principal components** for one analysis to approximate **Vahaduo-style scaling**
 - **Interactive visualizations** created using **plotly** and **htmlwidgets**
 - **Monte Carlo ancestry modeling** performed using a **custom modified nMonte algorithm** capable of:
   - handling multiple target samples
@@ -119,7 +119,7 @@ library(htmlwidgets)
   - removes Ethio-HG/Mota-related ancestry from PN samples
   - rescales remaining components proportionally
   - outputs both individual-sample and average ancestry matrices
-  - Several PCA figures and charts were manually refined in Inkscape for publication-quality visuals
+- Finally, several PCA figures and charts were manually refined **in Inkscape to create quality visuals**
 
 ## **How to Use**
 
