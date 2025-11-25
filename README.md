@@ -91,11 +91,9 @@ The datasets include:
 - Yemeni & Bedouin matrices  
 - mMonte `source.txt` and `target.txt` files  
 
-As long as these files remain inside `/Datasets/`, all scripts will run without errors.
-
 ### **3. Run the R Scripts**
 
-Open **R** or **RStudio**, then run any script in:
+Open **R** or **RStudio**, or whichever R environment you prefer, then run any script in:
 
 **`/R Scripts/`**
 
@@ -108,7 +106,7 @@ Each script corresponds directly to one visualization or analysis:
 - mMonte multi-target simulations  
 - Yemeni/Egyptian table generators  
 
-Outputs will match those contained in the `/Outputs/` folder.  If any issues or script errors arise, please contact the author, **Awale Abdi**.
+Outputs will match those contained in the `/Outputs/` folder.  If any issues or script errors arise, please feel free to contact the author, **Awale Abdi**.
 
 ## Contact
 
