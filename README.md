@@ -81,7 +81,7 @@ All analyses rely on the datasets stored in:
 
 **`/Datasets/`**
 
-Every R script uses **relative paths**, so **do not rename or move** this folder.
+Every R script uses **relative paths**, so simply make sure the dataset files are in your working directory.
 
 The datasets include:
 - Pastoral Neolithic ancestry files  
