@@ -6,7 +6,7 @@
 
 ## **Overview**
 
-This repository accompanies my long-form analysis on the **origins, dispersals, and history of East Cushitic and broader Horn African populations**. It integrates **population genetics, comparative linguistics, archaeology, craniometrics, cultural anthropology, and deep historical research with over 100 citations** to explore a revised model of how Cushitic and Ethiopian-Semitic speaking peoples emerged in the Horn of Africa.
+This repository accompanies my long-form analysis on the **origins, dispersals, and history of East Cushitic and broader Horn African populations**. It integrates **population genetics, comparative linguistics, archaeology, craniometrics, cultural anthropology, and historical research with over 100 citations** to explore a revised model of how Cushitic and Ethiopian-Semitic speaking peoples emerged in the Horn of Africa.
 
 A central question examined here is whether East Cushitic-speaking groups:
 
