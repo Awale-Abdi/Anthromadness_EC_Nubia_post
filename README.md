@@ -110,7 +110,6 @@ Each script corresponds directly to one visualization or analysis:
 
 Outputs will match those contained in the `/Outputs/` folder.  If any issues or script errors arise, please contact the author, **Awale Abdi**.
 
----
 ## Contact
 
 📌 Email: Awaleiabdi@outlook.com
