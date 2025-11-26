@@ -32,7 +32,7 @@ The working model based on the analyses conducted suggests that:
 - Visualization of Arabia/Egypt/Levant similarity over the last ~3,000 years  
 - **Cushitic–Ethiosemitic clines** observed through PCA and ancestry charts  
 
-These analyses form the empirical foundation of the corresponding blog post, with all modeling conducted using Eurogenes Global25 PCA coordinates, a widely used comparative framework that has seen growing adoption in academic theses, conference abstracts, and several peer-reviewed papers as a reliable high-resolution PCA space for both ancient and modern genomes.
+These analyses form the population genetic foundations of the corresponding blog post, with all modeling conducted using Eurogenes Global25 PCA coordinates, a widely used comparative framework that has seen growing adoption in academic theses, conference abstracts, and peer-reviewed papers as a reliable high-resolution PCA space for both ancient and modern genomes.
 
 ## **Technical Implementation**
 
