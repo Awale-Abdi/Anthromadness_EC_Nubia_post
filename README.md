@@ -82,15 +82,7 @@ All analyses rely on the datasets stored in:
 
 **`/Datasets/`**
 
-Every R script uses **relative paths**, so simply make sure the dataset files are in your working directory.
-
-The datasets include:
-- Pastoral Neolithic ancestry files  
-- Mota/Ethio-HG datasets  
-- Arabio–Egyptian basal proportion files  
-- Ancient Egyptian & Sudanese proxies  
-- Yemeni & Bedouin matrices  
-- mMonte `source.txt` and `target.txt` files  
+Every R script uses **relative paths**, so simply make sure all the dataset files are in your working directory.
 
 ### **3. Run the R Scripts**
 
@@ -98,7 +90,7 @@ Open **R** or **RStudio**, or whichever R environment you prefer, then run any s
 
 **`/R Scripts/`**
 
-Each script corresponds directly to one visualization or analysis:
+Each script corresponds directly to one visualization or analysis such as:
 
 - PCA plots  
 - Ancestry proportion charts  
