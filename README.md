@@ -95,9 +95,7 @@ Each script corresponds directly to one visualization or analysis such as:
 - PCA plots  
 - Ancestry proportion charts  
 - Heatmaps  
-- Basal proportion metrics  
-- mMonte multi-target simulations  
-- Yemeni/Egyptian table generators  
+- mMonte multi-target results
 
 Outputs will match those contained in the `/Outputs/` folder.  If any issues or script errors arise, please feel free to contact the author, **Awale Abdi**.
 
