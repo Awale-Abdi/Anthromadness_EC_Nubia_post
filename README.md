@@ -99,6 +99,20 @@ Each script corresponds directly to one visualization or analysis such as:
 
 Outputs will match those contained in the `/Outputs/` folder.  If any issues or script errors arise, please feel free to contact the author, **Awale Abdi**.
 
+If you want to replicate my nMonte runs exactly:
+
+- Use the source and target files corresponding to each output (numbering matches—e.g., 2 & 3 or 8).
+
+- Rename them to source and target.
+
+- Place them in your working directory alongside my nMonte.R file.
+
+- Run nMonte using the code from the 1_Script located in the /R Scripts/ directory.
+
+Note:
+
+My edited nMonte version can be slow unless you have a very powerful machine. For most users, Vahaduo is faster and more convenient. I mainly created this version for fun and to stretch my R coding skills.
+
 ## Contact
 
 📌 Email: Awaleiabdi@outlook.com
