@@ -105,9 +105,9 @@ If you want to replicate my nMonte runs exactly:
 
 - Rename them to source and target.
 
-- Place them in your working directory alongside my nMonte.R file.
+- Place them in your working directory alongside my Modified_nMonte.R file (remove the "1_" from its name).
 
-- Run nMonte using the code from the 1_Script located in the /R Scripts/ directory.
+- Run nMonte using the code from the 1_Script for running Nmonte.R file located in the /R Scripts/ directory.
 
 Note:
 
