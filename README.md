@@ -99,7 +99,7 @@ Each script corresponds directly to one visualization or analysis such as:
 
 Outputs will match those contained in the `/Outputs/` folder.  If any issues or script errors arise, please feel free to contact me, **Awale Abdi**.
 
-If you want to replicate my nMonte runs exactly:
+If you want to replicate my nMonte runs the way I ran them:
 
 - Use the source and target files corresponding to each output (numbering matches—e.g., 2 & 3 or 8).
 
