@@ -111,7 +111,7 @@ If you want to replicate my nMonte runs the way I ran them:
 
 Note:
 
-My edited nMonte version can be slow unless you have a very powerful machine. For most users, Vahaduo is faster and more convenient. I mainly created this version for fun and to stretch my R coding skills.
+My edited nMonte version can be slow unless you have a very powerful machine. For most users, Vahaduo is faster and more convenient. I mainly created this version for fun and to stretch my R coding skills. You should get the same exact results using Vahaduo. As long as you're using the same .txt files I provide in the /Datasets/ directory nothing should change since you're running the same coordinates for your models.
 
 ## Contact
 
