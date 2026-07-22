@@ -353,7 +353,7 @@ This distinction becomes particularly important when interpreting later demograp
 
 Several visualizations suggest varying degrees of continuity between ancient Northeast African populations and present-day populations of the Horn, while also illustrating evidence for later admixture events.
 
-## Interdisciplinary Convergence
+#### Interdisciplinary Convergence
 
 One of the central goals of the project was not simply to generate computational outputs, but to evaluate whether independent disciplines converge upon similar historical interpretations.
 
