@@ -329,31 +329,31 @@ These visualizations highlight:
 
 The analyses collectively suggest several recurring patterns that motivated the broader historical interpretation presented in the accompanying Anthromadness article.
 
-#### Bronze-Age Nile Valley Connections
+### Bronze-Age Nile Valley Connections
 
 Multiple independent lines of evidence suggest that demographic processes occurring within the Nile Valley during the Bronze Age may have played a larger role in shaping later Horn African populations than models relying exclusively on earlier Pastoral Neolithic dispersals.
 
-#### Multiple Migration Waves
+### Multiple Migration Waves
 
 Rather than supporting a single migration event into the Horn of Africa, several computational analyses are consistent with models involving multiple north-to-south population movements occurring over extended periods.
 
-#### East Cushitic Population History
+### East Cushitic Population History
 
 Across the computational models, East Cushitic-speaking populations consistently exhibit relationships compatible with ancestry deriving from multiple ancestral sources rather than a single founding population.
 
 The project explores how these observations compare with archaeological and linguistic evidence discussed in the accompanying article.
 
-#### Egyptian and Arabian Affinities
+### Egyptian and Arabian Affinities
 
 Comparative analyses indicate that Egyptian and Arabian-related ancestry may reflect contributions from different historical periods rather than representing a single homogeneous ancestry component.
 
 This distinction becomes particularly important when interpreting later demographic events involving Ethiopian Semitic-speaking populations.
 
-#### Population Continuity
+### Population Continuity
 
 Several visualizations suggest varying degrees of continuity between ancient Northeast African populations and present-day populations of the Horn, while also illustrating evidence for later admixture events.
 
-#### Interdisciplinary Convergence
+### Interdisciplinary Convergence
 
 One of the central goals of the project was not simply to generate computational outputs, but to evaluate whether independent disciplines converge upon similar historical interpretations.
 
