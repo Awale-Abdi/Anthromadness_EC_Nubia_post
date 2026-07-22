@@ -23,7 +23,7 @@ Its primary goals were to:
 - Integrate quantitative analyses with archaeological, linguistic, historical, and anthropological evidence.
 - Communicate complex analytical findings through reproducible computational research and long-form scientific writing.
 
-# 🏗️ Analytical Workflow
+# 🏗️ Analytical Components
 
 ### Workflow
 
