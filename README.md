@@ -6,7 +6,7 @@ Across **18 analytical scripts**, custom ancestry-modeling workflows, interactiv
 
 Rather than relying on a single analytical technique, the workflow combines principal component analysis (PCA), customized Monte Carlo ancestry modeling, multivariate analysis, simulation, interactive visualization, and interdisciplinary evidence synthesis to evaluate alternative demographic scenarios.
 
-Although the case study focuses on Northeast Africa, the analytical techniques demonstrated throughout—including statistical modeling, data transformation, reproducible research, visualization, and technical communication—are broadly transferable across data-intensive scientific and analytical disciplines.
+Although the case study focuses on Northeast Africa, the analytical techniques demonstrated throughout such as statistical modeling, data transformation, reproducible research, visualization, and technical communication are broadly transferable across data-intensive scientific and analytical disciplines.
 
 The repository accompanies a **9,000-word research article** published on **Anthromadness**, where the computational analyses are integrated with archaeological, linguistic, historical, and anthropological evidence to present the complete research narrative.
 
