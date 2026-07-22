@@ -186,23 +186,23 @@ Rather than presenting statistical outputs in isolation, the article demonstrate
 
 # 📊 Analytical Insights
 
-#### Bronze-Age Nile Valley Connections
+### Bronze-Age Nile Valley Connections
 
 Multiple independent analyses suggest that demographic processes within the Bronze-Age Nile Valley may have contributed more substantially to the ancestry of later Horn African populations than demographic models relying exclusively on Pastoral Neolithic ancestry.
 
-#### Multiple Migration Waves
+### Multiple Migration Waves
 
 Across several complementary analytical approaches, the results are generally more consistent with multiple north-to-south population movements than with a single migration event into the Horn of Africa.
 
-#### East Cushitic Population History
+### East Cushitic Population History
 
 East Cushitic-speaking populations consistently exhibit ancestry patterns compatible with multiple ancestral sources rather than a single founding population, supporting a more complex demographic history.
 
-#### Population Continuity
+### Population Continuity
 
 Several analyses indicate varying degrees of genetic continuity between ancient Northeast African populations and present-day Horn Africans while also identifying evidence of subsequent admixture events.
 
-#### Interdisciplinary Convergence
+### Interdisciplinary Convergence
 
 A central objective of the project was to evaluate whether independent scientific disciplines converge on similar historical interpretations.
 
