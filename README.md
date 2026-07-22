@@ -8,8 +8,6 @@ Although the case study focuses on Northeast Africa, the analytical capabilities
 
 The repository accompanies a **9,000-word research article** published on my anthropology blog, **Anthromadness**, where the quantitative analyses are integrated with archaeological, linguistic, historical, and anthropological evidence to present the complete research narrative.
 
----
-
 # 📈 Project at a Glance
 
 | | |
@@ -23,8 +21,6 @@ The repository accompanies a **9,000-word research article** published on my ant
 | **Primary Dataset** | Eurogenes Global25 PCA Coordinates |
 | **Analytical Techniques** | PCA, Monte Carlo ancestry modeling, multivariate analysis, simulation, clustering, interactive visualization |
 | **Research Fields** | Population Genetics, Anthropology, Archaeology, Comparative Linguistics, Historical & Cultural Anthropology |
-
----
 
 # 📖 Featured Research Article
 
@@ -70,8 +66,6 @@ Primary questions include:
 
 - Can customized computational modeling provide additional insight into unresolved questions regarding Northeast African population history?
 
----
-
 # 🔬 Analytical Workflow
 
 ```text
@@ -108,8 +102,6 @@ Historical Interpretation
 Scientific Writing & Publication
 ```
 
----
-
 # 🧠 Analytical Objectives
 
 The project was designed to demonstrate how computational analysis can be combined with interdisciplinary evidence to investigate complex historical questions.
@@ -125,8 +117,6 @@ Specifically, the objectives were to:
 - Compare Egyptian, Arabian, Sudanese, and Horn African population affinities.
 - Integrate quantitative analyses with archaeological, linguistic, historical, and anthropological evidence.
 - Translate complex statistical findings into an accessible long-form research article.
-
----
 
 # 💼 Analytical Capabilities Demonstrated
 
@@ -171,7 +161,6 @@ Using **Eurogenes Global25 coordinates**, PCA visualizations were generated to i
 Unlike PCA calculated directly from raw genotype data, these analyses use the published **25-dimensional Global25 coordinate space**, allowing consistent comparisons between ancient and modern populations.
 
 Multiple PCA visualizations were produced throughout the project to isolate different demographic questions while minimizing visual overcrowding.
-
 
 #### 🧬 Modified Monte Carlo Ancestry Modeling
 
