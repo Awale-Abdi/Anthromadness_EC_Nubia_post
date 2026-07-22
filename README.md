@@ -25,7 +25,7 @@ Its primary goals were to:
 
 # 🏗️ Analytical Workflow
 
-#### Workflow
+### Workflow
 
 ```text
 Published Ancient DNA Studies
@@ -53,14 +53,14 @@ Interdisciplinary Evidence Synthesis
 Scientific Writing & Publication
 ```
 
-- ### Dataset
+### Dataset
 
 - **Primary Dataset:** Eurogenes Global25 Coordinates
 - **Supporting Data:** Published ancient DNA studies and population reference datasets
 - **Study Regions:** Northeast Africa, the Nile Valley, the Horn of Africa, the Arabian Peninsula, and the Levant
 - **Research Focus:** Population structure, ancestry modeling, and demographic history
 
-- #### Data Preparation
+### Data Preparation
 
 Prepared and standardized published population-genetics datasets by:
 
@@ -70,7 +70,7 @@ Prepared and standardized published population-genetics datasets by:
 - Creating reproducible analytical inputs for downstream analyses.
 - Standardizing datasets across multiple computational workflows.
 
-- #### Principal Component Analysis (PCA)
+### Principal Component Analysis (PCA)
 
 Used **Principal Component Analysis (PCA)** to investigate:
 
@@ -84,7 +84,7 @@ Used **Principal Component Analysis (PCA)** to investigate:
 
 Because the analyses use published **Global25 coordinate space** rather than raw genotype data, ancient and modern populations can be compared within a consistent analytical framework.
 
-- #### Modified Monte Carlo Ancestry Modeling
+### Modified Monte Carlo Ancestry Modeling
 
 One of the largest computational components of the project involved modifying the widely used **nMonte** ancestry-modeling algorithm.
 
@@ -98,7 +98,7 @@ The customized implementation introduces features including:
 
 Rather than replacing existing population-genetics software, the modifications improve automation, reproducibility, and downstream visualization while facilitating the evaluation of alternative demographic scenarios.
 
-- #### Scaled Pastoral Neolithic Modeling
+### Scaled Pastoral Neolithic Modeling
 
 Developed a custom analytical workflow that:
 
@@ -109,7 +109,7 @@ Developed a custom analytical workflow that:
 
 This workflow allows alternative demographic scenarios to be evaluated across Egyptian, Arabian, and Horn African populations.
 
-- #### Population Affinity Analyses
+### Population Affinity Analyses
 
 Examined relationships among:
 
@@ -132,7 +132,7 @@ These comparisons combine:
 
 Using multiple complementary analytical approaches helps evaluate consistency across independent methods rather than relying on a single model.
 
-- #### Statistical Modeling
+### Statistical Modeling
 
 Applied multiple quantitative techniques including:
 
@@ -145,7 +145,7 @@ Applied multiple quantitative techniques including:
 
 Together, these approaches provide complementary perspectives on the same demographic questions.
 
-- #### Interactive Visualization
+### Interactive Visualization
 
 Developed interactive visualizations using **Plotly** and exported them as standalone HTML files, including:
 
@@ -155,7 +155,7 @@ Developed interactive visualizations using **Plotly** and exported them as stand
 
 These interactive figures allow readers to explore population relationships dynamically.
 
-- #### Publication Graphics
+### Publication Graphics
 
 Refined computational outputs using **Inkscape** to improve readability, standardize formatting, and produce publication-quality figures suitable for scientific communication.
 
