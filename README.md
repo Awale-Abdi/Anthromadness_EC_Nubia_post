@@ -53,7 +53,7 @@ Interdisciplinary Evidence Synthesis
 Scientific Writing & Publication
 ```
 
-- #### Dataset
+- ### Dataset
 
 - **Primary Dataset:** Eurogenes Global25 Coordinates
 - **Supporting Data:** Published ancient DNA studies and population reference datasets
