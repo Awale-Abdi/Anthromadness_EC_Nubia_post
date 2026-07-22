@@ -6,7 +6,7 @@ Although the project uses Northeast African population history as its case study
 
 Using **R**, customized computational workflows, and published population-genetics datasets, I integrated principal component analysis (PCA), modified Monte Carlo ancestry modeling, and interactive visualization to evaluate competing demographic scenarios and communicate the findings through publication-quality visualizations.
 
-To complement the computational analyses, I also authored a **9,000-word research article** published on **Anthromadness**, integrating the analytical results with archaeological, linguistic, historical, and anthropological evidence to present a comprehensive interdisciplinary interpretation of Northeast African population history.
+To complement the computational analyses, I also authored [a **9,000-word research article** published on **Anthromadness**](https://anthromadness.blogspot.com/2025/11/east-cushites-were-in-sudan-and-egypt.html), integrating the analytical results with archaeological, linguistic, historical, and anthropological evidence to present a comprehensive interdisciplinary interpretation of Northeast African population history.
 
 # 🎯 Project Goals
 
