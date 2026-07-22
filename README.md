@@ -53,6 +53,8 @@ Interdisciplinary Evidence Synthesis
 Scientific Writing & Publication
 ```
 
+# 🔬 Analytical Components
+
 ### Dataset
 
 - **Primary Dataset:** Eurogenes Global25 Coordinates
