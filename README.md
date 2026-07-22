@@ -329,7 +329,7 @@ These visualizations highlight:
 
 The analyses collectively suggest several recurring patterns that motivated the broader historical interpretation presented in the accompanying Anthromadness article.
 
-### Bronze-Age Nile Valley Connections
+- ### Bronze-Age Nile Valley Connections
 
 Multiple independent lines of evidence suggest that demographic processes occurring within the Nile Valley during the Bronze Age may have played a larger role in shaping later Horn African populations than models relying exclusively on earlier Pastoral Neolithic dispersals.
 
