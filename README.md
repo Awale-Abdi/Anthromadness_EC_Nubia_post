@@ -23,9 +23,9 @@ Its primary goals were to:
 - Integrate quantitative analyses with archaeological, linguistic, historical, and anthropological evidence.
 - Communicate complex analytical findings through reproducible computational research and long-form scientific writing.
 
-# 🏗️ Analytical Workflow
+# 🏗️ Solution Architecture
 
-### Workflow
+### Computational Anthropology Workflow
 
 ```text
 Published Ancient DNA Studies
@@ -53,9 +53,7 @@ Interdisciplinary Evidence Synthesis
 Scientific Writing & Publication
 ```
 
-# 🔬 Analytical Components
-
-### Dataset
+### Data
 
 - **Primary Dataset:** Eurogenes Global25 Coordinates
 - **Supporting Data:** Published ancient DNA studies and population reference datasets
@@ -74,7 +72,7 @@ Prepared and standardized published population-genetics datasets by:
 
 ### Principal Component Analysis (PCA)
 
-Used **Principal Component Analysis (PCA)** to investigate:
+Conducted Principal Component Analysis (PCA) using **Eurogenes Global25 coordinates** to investigate:
 
 - Population clustering.
 - Relative genetic affinities.
@@ -84,13 +82,11 @@ Used **Principal Component Analysis (PCA)** to investigate:
 - Pastoral Neolithic ancestry.
 - East Cushitic and Ethiopian Semitic population structure.
 
-Because the analyses use published **Global25 coordinate space** rather than raw genotype data, ancient and modern populations can be compared within a consistent analytical framework.
+Using published Global25 coordinate space enables ancient and modern populations to be compared within a consistent analytical framework.
 
 ### Modified Monte Carlo Ancestry Modeling
 
-One of the largest computational components of the project involved modifying the widely used **nMonte** ancestry-modeling algorithm.
-
-The customized implementation introduces features including:
+Developed a customized implementation of the widely used **nMonte** ancestry-modeling algorithm featuring:
 
 - Multi-target ancestry modeling.
 - Batch processing.
@@ -98,22 +94,22 @@ The customized implementation introduces features including:
 - Automated ancestry summaries.
 - Reproducible CSV exports.
 
-Rather than replacing existing population-genetics software, the modifications improve automation, reproducibility, and downstream visualization while facilitating the evaluation of alternative demographic scenarios.
+These modifications improve automation, reproducibility, and downstream visualization while facilitating the evaluation of alternative demographic scenarios.
 
 ### Scaled Pastoral Neolithic Modeling
 
-Developed a custom analytical workflow that:
+Developed a custom ancestry-modeling workflow to:
 
-- Estimates Ethio-HG ancestry.
-- Removes that ancestry computationally.
-- Proportionally rescales the remaining ancestry.
-- Produces adjusted ancestry models for downstream comparison.
+- Estimate Ethio-HG ancestry.
+- Remove that ancestry computationally.
+- Proportionally rescale the remaining ancestry.
+- Produce adjusted ancestry models for downstream comparison.
 
-This workflow allows alternative demographic scenarios to be evaluated across Egyptian, Arabian, and Horn African populations.
+This workflow enables alternative demographic scenarios to be evaluated across Egyptian, Arabian, and Horn African populations.
 
 ### Population Affinity Analyses
 
-Examined relationships among:
+Compared relationships among:
 
 - Ancient Egyptians
 - Nubians
@@ -124,19 +120,19 @@ Examined relationships among:
 - Sudanese populations
 - Ancient Levantines
 
-These comparisons combine:
+The analyses integrate:
 
-- Principal Component Analysis (PCA)
-- Coordinate distance calculations
-- Modified Monte Carlo ancestry modeling
-- Population affinity modeling
-- Comparative ancestry matrices
+- Principal Component Analysis (PCA).
+- Coordinate distance calculations.
+- Modified Monte Carlo ancestry modeling.
+- Population affinity modeling.
+- Comparative ancestry matrices.
 
-Using multiple complementary analytical approaches helps evaluate consistency across independent methods rather than relying on a single model.
+Applying multiple complementary analytical techniques allows demographic hypotheses to be evaluated across independent methods rather than relying on a single model.
 
 ### Statistical Modeling
 
-Applied multiple quantitative techniques including:
+Applied quantitative analytical techniques including:
 
 - Euclidean distance calculations.
 - Coordinate averaging.
@@ -145,17 +141,17 @@ Applied multiple quantitative techniques including:
 - Monte Carlo simulation.
 - Comparative statistical visualization.
 
-Together, these approaches provide complementary perspectives on the same demographic questions.
+Together, these methods provide complementary perspectives on complex demographic questions.
 
 ### Interactive Visualization
 
-Developed interactive visualizations using **Plotly** and exported them as standalone HTML files, including:
+Developed interactive visualizations using **Plotly**, including:
 
 - Interactive ancestry charts.
 - Comparative population visualizations.
 - Heatmap-style ancestry matrices.
 
-These interactive figures allow readers to explore population relationships dynamically.
+The visualizations were exported as standalone HTML files, allowing readers to explore population relationships dynamically.
 
 ### Publication Graphics
 
