@@ -442,11 +442,3 @@ Awaleiabdi@outlook.com
 **LinkedIn**
 
 https://www.linkedin.com/in/awale-abdi/
-
----
-
-<div align="center">
-
-*Exploring humanity's past through computational analysis, statistical modeling, and interdisciplinary research.*
-
-</div>
