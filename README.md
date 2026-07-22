@@ -433,21 +433,6 @@ R Scripts/
 
 The modified implementation exports ancestry summaries, ancestry proportions, and distance metrics for downstream analysis, visualization, and model comparison.
 
-# 📚 References
-
-This repository accompanies a [**9,000-word Anthromadness research article**](https://anthromadness.blogspot.com/2025/11/east-cushites-were-in-sudan-and-egypt.html) synthesizing more than **100 scholarly sources** spanning:
-
-- Ancient DNA
-- Population genetics
-- Archaeology
-- Historical linguistics
-- Anthropology
-- Egyptology
-- Nubian studies
-- African history
-
-For the complete bibliography and discussion of the historical evidence, please refer to the accompanying research article.
-
 # 📬 Contact Me
 
 **Email**
