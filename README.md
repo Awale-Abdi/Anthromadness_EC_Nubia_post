@@ -315,7 +315,7 @@ Specifically, it demonstrates:
 - Produce publication-quality visualizations
 - Communicate complex scientific findings to technical and non-technical audiences
 
-Beyond the computational analyses themselves, the project essentially demonstrates the ability to synthesize evidence from population genetics, archaeology, comparative linguistics, craniometrics, and cultural anthropology, highlighting transferable analytical thinking and problem-solving skills that can be applied across a wide range of complex domains.
+Beyond the computational analyses, the project demonstrates the ability to synthesize evidence from multiple scientific disciplines to solve complex analytical problems; an approach that is transferable across a wide range of data-intensive domains.
 
 # 🛠️ Technical Skills Demonstrated
 
