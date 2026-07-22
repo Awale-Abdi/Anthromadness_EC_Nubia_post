@@ -1,12 +1,14 @@
 <h1 align="center">Computational Anthropology & Population Genetics | Modeling the Bronze-Age Origins of East Cushitic Populations with R</h1>
 
-This repository showcases an **end-to-end computational anthropology and population genetics workflow** developed over nearly **one year** using **R**, **Excel**, **Inkscape**, and population-genetics datasets derived from **[Eurogenes Global25 coordinates](https://eurogenes.blogspot.com/2019/07/getting-most-out-of-global25_12.html)**. The project integrates multivariate statistical analysis, ancestry modeling, simulation, interactive visualization, comparative linguistics, archaeology, craniometrics, cultural anthropology, and historical research to investigate the Bronze-Age origins and dispersal of East Cushitic-speaking populations across Northeast Africa.
+This repository documents an **end-to-end computational anthropology and population genetics project** developed over nearly **one year** using **R**, **Excel**, **Inkscape**, and **Eurogenes Global25** population-genetics datasets.
 
-Across **18 analytical scripts**, custom ancestry models, interactive visualizations, and more than **100 scholarly references**, I explored competing hypotheses regarding the origins of modern Cushitic and Ethiopian Semitic-speaking populations. Rather than relying on a single analytical technique, the project combines principal component analysis, Monte Carlo ancestry modeling, coordinate-based statistical analysis, customized computational workflows, and interdisciplinary evidence synthesis to evaluate alternative models of population history.
+Across **18 analytical scripts**, custom ancestry-modeling workflows, interactive visualizations, and more than **100 scholarly sources**, the project investigates competing hypotheses surrounding the Bronze-Age origins and dispersal of East Cushitic-speaking populations in Northeast Africa.
 
-Although the case study focuses on Northeast Africa, the analytical capabilities demonstrated throughout, such as multivariate analysis, simulation, statistical modeling, interactive visualization, data transformation, reproducible research, and technical communication are transferable to a plethora fields such as computational biology, genetics, epidemiology, archaeology, historical research, and other data-intensive scientific disciplines.
+Rather than relying on a single analytical technique, the workflow combines principal component analysis (PCA), customized Monte Carlo ancestry modeling, multivariate analysis, simulation, interactive visualization, and interdisciplinary evidence synthesis to evaluate alternative demographic scenarios.
 
-The repository accompanies a **9,000-word research article** published on my anthropology blog, **Anthromadness**, where the quantitative analyses are integrated with archaeological, linguistic, historical, and anthropological evidence to present the complete research narrative.
+Although the case study focuses on Northeast Africa, the analytical techniques demonstrated throughout—including statistical modeling, data transformation, reproducible research, visualization, and technical communication—are broadly transferable across data-intensive scientific and analytical disciplines.
+
+The repository accompanies a **9,000-word research article** published on **Anthromadness**, where the computational analyses are integrated with archaeological, linguistic, historical, and anthropological evidence to present the complete research narrative.
 
 # 📈 Project at a Glance
 
@@ -18,53 +20,47 @@ The repository accompanies a **9,000-word research article** published on my ant
 | **Scholarly Sources** | 100+ references |
 | **Primary Language** | R |
 | **Additional Software** | Excel, Inkscape |
-| **Primary Dataset** | Eurogenes Global25 PCA Coordinates |
-| **Analytical Techniques** | PCA, Monte Carlo ancestry modeling, multivariate analysis, simulation, clustering, interactive visualization |
-| **Research Fields** | Population Genetics, Anthropology, Archaeology, Comparative Linguistics, Historical & Cultural Anthropology |
+| **Primary Dataset** | Eurogenes Global25 Coordinates |
+| **Core Methods** | PCA, Monte Carlo ancestry modeling, multivariate analysis, simulation, interactive visualization |
+| **Research Areas** | Population Genetics, Computational Anthropology, Archaeology, Comparative Linguistics |
 
 # 📖 Featured Research Article
 
-The repository accompanies the following long-form research article published on **Anthromadness**:
+This repository accompanies the following long-form article published on **Anthromadness**:
 
 ### [East Cushites were in Sudan and Egypt as recently as 1500 BCE?](https://anthromadness.blogspot.com/2025/11/east-cushites-were-in-sudan-and-egypt.html)
 
-The article integrates quantitative population-genetics analyses with evidence from archaeology, historical linguistics, craniometrics, cultural anthropology, and ancient history to evaluate competing hypotheses regarding the emergence of modern Horn African populations.
+The article combines computational population-genetics analyses with evidence from archaeology, comparative linguistics, craniometrics, cultural anthropology, and ancient history to evaluate competing models of Northeast African population history.
 
-Major topics include:
+Topics include:
 
 - Population structure of modern Horn Africans
 - Pastoral Neolithic ancestry
 - Bronze-Age Nile Valley populations
-- East Cushitic dispersals and origins
+- East Cushitic dispersals
 - Ethiopian Semitic origins
 - Egyptian and Arabian population relationships
 - Ancient Nubia
-- Archaeological evidence
+- Archaeology
 - Historical linguistics
-- Population-genetics modeling
+- Ancient DNA
 - Cultural continuity
 - Y-chromosome evidence
-- Ancient DNA research
 
-Rather than presenting isolated statistical outputs, the article demonstrates how computational analyses can be integrated with independent lines of historical and archaeological evidence to investigate complex questions in human population history.
+Rather than presenting statistical outputs in isolation, the article demonstrates how computational analyses can be integrated with independent lines of scientific and historical evidence.
 
 # 🎯 Research Questions
 
 The project investigates several interconnected questions regarding the demographic history of Northeast Africa.
 
-Primary questions include:
+Key questions include:
 
 - Can the genetic structure of modern Horn African populations be explained solely through Pastoral Neolithic ancestry?
-
-- Do Bronze-Age Nile Valley populations provide a better explanation for the emergence of East Cushitic-speaking groups?
-
-- What population relationships are observed between ancient Egyptians, Nubians, Arabian populations, and modern Horn Africans?
-
-- Can multiple north-to-south migration events better explain the observed genetic structure than a single migration model?
-
-- How do linguistic, archaeological, anthropological, and genetic evidence converge when examined together?
-
-- Can customized computational modeling provide additional insight into unresolved questions regarding Northeast African population history?
+- Do Bronze-Age Nile Valley populations better explain the emergence of East Cushitic-speaking groups?
+- What relationships exist between ancient Egyptians, Nubians, Arabian populations, and modern Horn Africans?
+- Are multiple north-to-south migrations more consistent with the observed genetic structure than a single migration event?
+- How do genetic, archaeological, linguistic, and anthropological evidence converge?
+- Can customized computational modeling provide additional insight into unresolved questions of Northeast African population history?
 
 # 🔬 Analytical Workflow
 
@@ -79,122 +75,107 @@ Data Preparation
                 ↓
 Principal Component Analysis
                 ↓
-Interactive Data Visualization
+Interactive Visualization
                 ↓
 Modified Monte Carlo Ancestry Modeling
                 ↓
-Scaled Pastoral Neolithic Simulations
+Scaled Pastoral Neolithic Modeling
                 ↓
 Population Comparisons
                 ↓
 Statistical Interpretation
                 ↓
-Integration with Archaeology
-                ↓
-Integration with Historical Linguistics
-                ↓
-Integration with Craniometrics
-                ↓
-Integration with Cultural Anthropology
-                ↓
-Historical Interpretation
+Interdisciplinary Evidence Synthesis
                 ↓
 Scientific Writing & Publication
 ```
 
 # 🧠 Analytical Objectives
 
-The project was designed to demonstrate how computational analysis can be combined with interdisciplinary evidence to investigate complex historical questions.
+The project was designed to demonstrate how computational analysis can be applied to complex historical questions through an interdisciplinary analytical framework.
 
-Specifically, the objectives were to:
+Its primary objectives were to:
 
 - Analyze population structure using Global25 principal-component coordinates.
 - Compare ancient and modern Northeast African populations.
-- Construct customized ancestry models using modified Monte Carlo methods.
-- Evaluate multiple demographic scenarios through computational simulation.
-- Produce publication-quality visualizations using R.
-- Develop interactive ancestry charts and heatmaps.
+- Develop customized ancestry models using modified Monte Carlo methods.
+- Evaluate competing demographic scenarios through computational simulation.
+- Produce publication-quality visualizations.
 - Compare Egyptian, Arabian, Sudanese, and Horn African population affinities.
 - Integrate quantitative analyses with archaeological, linguistic, historical, and anthropological evidence.
-- Translate complex statistical findings into an accessible long-form research article.
+- Communicate complex analytical findings through long-form scientific writing.
 
 # 💼 Analytical Capabilities Demonstrated
 
-Although this project focuses on anthropological research, the computational techniques demonstrated are broadly transferable across scientific and analytical disciplines.
+Although this project focuses on computational anthropology, the analytical capabilities demonstrated are broadly transferable across scientific and analytical disciplines.
 
-These capabilities include:
+These include:
 
 - Multivariate statistical analysis
 - Principal Component Analysis (PCA)
-- Population clustering
-- Distance-based modeling
+- Population affinity modeling
 - Monte Carlo simulation
 - Data transformation
+- Exploratory data analysis
 - Interactive visualization
 - Scientific programming in R
 - Reproducible analytical workflows
-- Exploratory data analysis
-- Scientific communication
 - Research synthesis
+- Technical communication
 - Publication-quality data visualization
 
 # ⚙️ Computational Methods
 
-The analyses in this repository were developed using a combination of **R**, **Excel**, and manually curated visualizations to investigate population relationships across Northeast Africa and Western Eurasia. Rather than relying on a single analytical technique, the project combines multiple complementary approaches, allowing each method to address different aspects of the broader research questions.
+The analyses combine multiple complementary computational approaches to investigate population relationships across Northeast Africa and Western Eurasia. Rather than relying on a single method, each technique addresses a different aspect of the broader research questions.
 
-The workflow integrates principal component analysis, customized Monte Carlo ancestry modeling, proportional ancestry estimation, interactive visualization, heatmap generation, and comparative statistical analyses into a reproducible computational framework.
+The workflow integrates principal component analysis, customized Monte Carlo ancestry modeling, proportional ancestry estimation, statistical modeling, interactive visualization, and comparative analyses within a reproducible computational framework.
 
 #### 📊 Principal Component Analysis (PCA)
 
-Principal Component Analysis (PCA) forms the foundation of much of the repository.
+Principal Component Analysis forms the foundation of much of the repository.
 
-Using **Eurogenes Global25 coordinates**, PCA visualizations were generated to investigate:
+Using **Eurogenes Global25 coordinates**, PCA visualizations investigate:
 
 - Population clustering
 - Relative genetic affinities
-- Ancient vs modern population structure
+- Ancient and modern population structure
 - Bronze-Age migration patterns
 - Egyptian, Arabian, Sudanese, and Horn African relationships
 - Pastoral Neolithic ancestry
 - East Cushitic and Ethiopian Semitic population structure
 
-Unlike PCA calculated directly from raw genotype data, these analyses use the published **25-dimensional Global25 coordinate space**, allowing consistent comparisons between ancient and modern populations.
-
-Multiple PCA visualizations were produced throughout the project to isolate different demographic questions while minimizing visual overcrowding.
+Because the analyses use published Global25 coordinate space rather than raw genotype data, ancient and modern populations can be compared within a consistent analytical framework.
 
 #### 🧬 Modified Monte Carlo Ancestry Modeling
 
-One of the largest computational components of the project involved modifying the popular **nMonte** ancestry modeling algorithm.
+One of the largest computational components of the project involved modifying the popular **nMonte** ancestry-modeling algorithm.
 
-The customized implementation was designed to support analytical workflows beyond the original software by introducing features such as:
+The customized implementation introduces features including:
 
 - Multi-target ancestry modeling
-- Automatic export of complete ancestry summaries
-- Distance-score reporting
 - Batch processing
-- Reproducible CSV output
-- Simplified downstream visualization
+- Distance-score reporting
+- Automated ancestry summaries
+- Reproducible CSV exports
 
-The objective was not to replace established population-genetics software but to create a flexible research tool that improved automation and reproducibility while exploring alternative demographic scenarios.
+The objective was not to replace established population-genetics software, but to improve automation, reproducibility, and downstream visualization while exploring alternative demographic scenarios.
 
-The repository also includes the modified nMonte implementation for transparency and reproducibility.
+The repository includes the modified implementation for transparency and reproducibility.
 
 #### 📈 Scaled Pastoral Neolithic Modeling
 
-Several analyses focused on understanding the genetic structure of **Pastoral Neolithic (PN)** populations.
+Several analyses investigate the genetic structure of Pastoral Neolithic populations through a custom workflow that:
 
-To explore alternative demographic scenarios, a custom workflow was developed that:
+- Estimates Ethio-HG ancestry
+- Removes that ancestry computationally
+- Proportionally rescales the remaining ancestry
+- Produces adjusted ancestry models for downstream comparison
 
-- Estimates Ethio-HG (Mota-related) ancestry within PN populations.
-- Removes that ancestry proportion computationally.
-- Rescales the remaining ancestry components proportionally.
-- Produces adjusted ancestry matrices for downstream comparison.
-
-This allowed simulated Pastoral Neolithic populations to be compared with Egyptian, Arabian, and modern Horn African populations under alternative demographic assumptions.
+This allows alternative demographic scenarios to be compared across Egyptian, Arabian, and Horn African populations.
 
 #### 🌍 Population Affinity Analyses
 
-The repository contains numerous analyses examining population relationships between:
+The repository examines relationships among:
 
 - Ancient Egyptians
 - Nubians
@@ -205,30 +186,28 @@ The repository contains numerous analyses examining population relationships bet
 - Sudanese populations
 - Ancient Levantines
 
-Comparisons were performed using combinations of:
+Comparisons combine:
 
-- PCA positioning
+- PCA
 - Coordinate distances
-- Ancestry proportion estimates
-- Monte Carlo modeling
-- Heatmaps
-- Comparative visualization
+- Monte Carlo ancestry modeling
+- Population affinity modeling
+- Comparative ancestry matrices
 
-Rather than treating any single analysis as definitive, multiple complementary approaches were used to evaluate consistency across independent computational methods.
-
+Multiple complementary approaches are used to evaluate consistency across independent analytical methods rather than relying on any single model.
 
 #### 📉 Statistical Modeling
 
-Several quantitative methods were combined throughout the project, including:
+The repository incorporates multiple quantitative techniques, including:
 
 - Euclidean distance calculations
 - Coordinate averaging
 - Linear scaling
 - Proportional ancestry estimation
-- Monte Carlo optimization
+- Monte Carlo modeling
 - Comparative statistical visualization
 
-Together, these methods provide multiple perspectives on the same demographic questions rather than relying on a single analytical framework.
+Together, these methods provide complementary perspectives on the same demographic questions.
 
 #### 📊 Interactive Visualizations
 
@@ -236,145 +215,92 @@ Interactive visualizations were developed using **Plotly** and exported as stand
 
 These include:
 
-- Interactive ancestry proportion charts
-- Heatmaps
-- Comparative population visualizations
+- Interactive ancestry charts
+- Comparative visualizations
+- Heatmap-style ancestry matrices
 
-Interactive figures allow readers to explore population relationships dynamically rather than relying solely on static images.
+The interactive figures allow readers to explore population relationships dynamically.
 
-####  🎨 Publication Graphics
+#### 🎨 Publication Graphics
 
-Many figures were manually refined using **Inkscape** after computational generation.
+Figures were refined using **Inkscape** after computational generation to improve readability, standardize formatting, and produce publication-quality graphics suitable for presentation and publication.
 
-This process included:
+# 📊 Major Analytical Components
 
-- Improving readability
-- Optimizing label placement
-- Standardizing colors
-- Preparing publication-quality graphics
-- Producing presentation-ready figures
+The repository consists of several interconnected analytical modules.
 
-The goal was to improve scientific communication without altering the underlying analytical results.
+#### 1. Population Structure
 
-#### 📊 Major Analytical Components
+Examines genetic relationships among modern Horn Africans, ancient Northeast Africans, West Eurasians, Arabian populations, and Sudanese populations using PCA.
 
-The repository contains multiple independent but interconnected analytical modules.
+#### 2. Ethio-HG Ancestry Modeling
 
-##### 1. Population Structure
+Investigates the contribution of deeply divergent East African ancestry within modern Horn Africans, Pastoral Neolithic populations, and ancient populations.
 
-Examines the broad genetic relationships among:
+#### 3. Pastoral Neolithic Analyses
 
-- Modern Horn Africans
-- Ancient Northeast Africans
-- West Eurasians
-- Arabian populations
-- Sudanese populations
+Explores internal Pastoral Neolithic population structure, scaled ancestry models, and relationships with later Horn African populations.
 
-using PCA visualizations.
+#### 4. Monte Carlo Modeling
 
-##### 2. Ethio-HG Ancestry Modeling
+Evaluates competing ancestry models using customized multi-target Monte Carlo simulations, producing ancestry estimates, distance scores, and reproducible outputs.
 
-Investigates the contribution of deeply divergent East African ancestry within:
+#### 5. Egyptian–Arabian Comparisons
 
-- Modern Horn Africans
-- Pastoral Neolithic populations
-- Ancient populations
+Compares ancient and modern Egyptians, Southern Arabians, Yemenis, and Horn Africans to investigate changing affinity patterns through time.
 
-through proportional ancestry estimation and visualization.
+#### 6. Comparative Ancestry Matrices
 
-##### 3. Pastoral Neolithic Analyses
-
-Explores:
-
-- Internal PN population structure
-- Scaled ancestry models
-- Alternative ancestry compositions
-- Relationships with later Horn African populations
-
-##### 4. Monte Carlo Modeling
-
-Evaluates competing ancestry models using customized multi-target Monte Carlo simulations.
-
-Outputs include:
-
-- Mixture proportions
-- Distance scores
-- Best-fitting ancestry combinations
-- Exported reproducible results
-
-##### 5. Egyptian–Arabian Comparisons
-
-Several analyses compare:
-
-- Ancient & Modern Egyptians
-- Southern Arabian populations
-- Modern Yemeni populations
-- Modern Horn Africans
-
-to investigate changing affinity patterns across time.
-
-##### 6. Heatmap-Style Comparative Matrices
-
-The repository contains heatmap-style comparative matrices that use conditional formatting to visualize ancestry-model outputs across multiple target populations and alternative source configurations.
-
-These visualizations highlight:
-
-- Relative ancestry proportions
-- Population-level similarities and differences
-- Alternative source-model fits
-- Changes in ancestry composition under different modeling scenarios
-- Comparative demographic patterns across Northeast African and Arabian populations
+Uses heatmap-style comparative matrices to visualize ancestry-model outputs across multiple populations and alternative source configurations, highlighting relative ancestry proportions, model fit, and demographic patterns.
 
 # 🔍 Principal Analytical Findings
 
-The analyses collectively suggest several recurring patterns that motivated the broader historical interpretation presented in the accompanying Anthromadness article.
+The analyses revealed several recurring patterns that informed the broader historical interpretation presented in the accompanying Anthromadness article.
 
-- ### Bronze-Age Nile Valley Connections
+- #### Bronze-Age Nile Valley Connections
 
-Multiple independent lines of evidence suggest that demographic processes occurring within the Nile Valley during the Bronze Age may have played a larger role in shaping later Horn African populations than models relying exclusively on earlier Pastoral Neolithic dispersals.
+Multiple independent analyses suggest that demographic processes within the Bronze-Age Nile Valley may have contributed more substantially to later Horn African populations than models relying exclusively on Pastoral Neolithic ancestry.
 
-- ### Multiple Migration Waves
+- #### Multiple Migration Waves
 
-Rather than supporting a single migration event into the Horn of Africa, several computational analyses are consistent with models involving multiple north-to-south population movements occurring over extended periods.
+Several computational analyses are more consistent with models involving multiple north-to-south population movements than a single migration event.
 
-- ### East Cushitic Population History
+- #### East Cushitic Population History
 
-Across the computational models, East Cushitic-speaking populations consistently exhibit relationships compatible with ancestry deriving from multiple ancestral sources rather than a single founding population.
+Across multiple analytical approaches, East Cushitic-speaking populations consistently exhibit ancestry patterns compatible with multiple ancestral sources rather than a single founding population.
 
-The project explores how these observations compare with archaeological and linguistic evidence discussed in the accompanying article.
+- #### Population Continuity
 
-- ### Population Continuity
+Several analyses indicate varying degrees of continuity between ancient Northeast African populations and present-day Horn Africans while also identifying evidence of later admixture.
 
-Several visualizations suggest varying degrees of continuity between ancient Northeast African populations and present-day populations of the Horn, while also illustrating evidence for later admixture events.
+- #### Interdisciplinary Convergence
 
-- ### Interdisciplinary Convergence
+A central objective of the project was to evaluate whether independent disciplines converge on similar historical interpretations.
 
-One of the central goals of the project was not simply to generate computational outputs, but to evaluate whether independent disciplines converge upon similar historical interpretations.
-
-Population-genetics analyses were therefore considered alongside:
+Rather than relying on genetic evidence alone, the analyses were considered alongside:
 
 - Archaeology
 - Comparative linguistics
-- Craniometric studies
+- Craniometrics
 - Cultural anthropology
 - Historical documentation
 
-Rather than treating any single field as decisive, the project emphasizes the value of integrating multiple independent lines of evidence when investigating ancient population history.
+Together, these complementary lines of evidence provide a broader framework for interpreting Northeast African population history.
 
 # ⚠️ Methodological Considerations
 
-This repository is intended as an **independent computational research project** rather than a formal archaeogenetics publication.
+This repository is an **independent computational research project** rather than a formal archaeogenetics publication.
 
-Several important methodological considerations should therefore be kept in mind when interpreting the analyses:
+Several important limitations should be considered when interpreting the analyses:
 
 - Global25 coordinates are reduced-dimensional representations rather than raw genotype data.
-- PCA visualization illustrates relative population structure but cannot independently establish admixture events or migration direction.
-- Monte Carlo ancestry modeling provides statistical approximations rather than definitive historical reconstructions.
-- In conjunction with the previous point, opulation relationships depend upon the available reference populations included in each model.
-- Ancient DNA sampling throughout Northeast Africa remains incomplete and future discoveries may substantially refine existing interpretations.
-- Archaeological, linguistic, cultural, and genetic evidence each possess independent limitations and should not be interpreted in isolation.
+- PCA visualizes population structure but cannot independently establish admixture events or migration direction.
+- Monte Carlo ancestry modeling provides best-fit statistical models rather than definitive historical reconstructions.
+- Ancestry models depend on the selected reference populations and currently available ancient DNA.
+- Ancient DNA sampling across Northeast Africa remains incomplete and future discoveries may refine existing interpretations.
+- Archaeological, linguistic, historical, and genetic evidence each have independent limitations and should be interpreted collectively rather than in isolation.
 
-Accordingly, the analyses presented throughout this repository are intended to contribute to ongoing discussions regarding Northeast African population history rather than provide definitive conclusions.
+Accordingly, the analyses are intended to contribute to ongoing discussions of Northeast African population history rather than provide definitive conclusions.
 
 # 💡 What This Project Demonstrates
 
@@ -389,7 +315,7 @@ Specifically, it demonstrates the ability to:
 - Produce publication-quality visualizations
 - Communicate complex scientific findings to technical and non-technical audiences
 
-Beyond the computational analyses themselves, the project essentiually demonstrates the ability to synthesize evidence from population genetics, archaeology, comparative linguistics, craniometrics, and cultural anthropology, highlighting transferable analytical thinking and problem-solving skills that can be applied across a wide range of complex domains.
+Beyond the computational analyses, the project demonstrates the ability to integrate evidence from population genetics, archaeology, comparative linguistics, craniometrics, and anthropology to solve complex analytical problems.
 
 # 🛠️ Technical Skills Demonstrated
 
@@ -424,7 +350,7 @@ Beyond the computational analyses themselves, the project essentiually demonstra
 
 - PCA visualizations
 - Interactive Plotly dashboards
-- Heatmaps
+- Heatmap-style comparative matrices
 - Ancestry proportion charts
 - Scatter plots
 - Publication-quality graphics
@@ -440,7 +366,7 @@ Beyond the computational analyses themselves, the project essentiually demonstra
 
 # 📦 Software & Libraries
 
-#### Programming Languages
+#### Programming Language
 
 - R
 
@@ -450,7 +376,7 @@ Beyond the computational analyses themselves, the project essentiually demonstra
 - Microsoft Excel
 - Inkscape
 
-#### R Packages
+#### Core R Packages
 
 ```r
 library(readr)
@@ -474,37 +400,33 @@ library(DT)
 ```text
 Datasets/
     Global25 coordinate files
-    Source and target files
-    Pastoral Neolithic datasets
     Population reference datasets
-    Ancestry modeling inputs
+    Source and target datasets
+    Pastoral Neolithic datasets
 
 Miscellaneous/
-    Supporting files
     Maps
     Figures
-    Additional visual assets
+    Supporting assets
 
 Outputs/
-    PCA plots
-    Interactive Plotly visualizations
-    Heatmaps
+    PCA visualizations
+    Interactive Plotly figures
+    Comparative ancestry matrices
     Monte Carlo outputs
     CSV summaries
-    Publication-ready figures
+    Publication-ready graphics
 
 R Scripts/
     18 analytical scripts
     Modified nMonte implementation
-    Visualization scripts
-    Data preparation scripts
+    Data preparation
+    Visualization
 
 README.md
 ```
 
----
-
-# 📋 Replicating the Project
+# 🚀 Replicating the Project
 
 #### Clone the Repository
 
@@ -515,8 +437,6 @@ cd Anthromadness_EC_Nubia_post
 ```
 
 #### Install Required Packages
-
-Install the required R packages:
 
 ```r
 install.packages(c(
@@ -537,77 +457,61 @@ install.packages(c(
 
 #### Repository Layout
 
-Ensure the repository structure remains unchanged.
-
-Datasets should remain inside:
+Maintain the existing directory structure:
 
 ```text
 Datasets/
-```
-
-Analytical scripts should remain inside:
-
-```text
 R Scripts/
-```
-
-Generated outputs will be written to:
-
-```text
 Outputs/
 ```
 
 #### Running the Analyses
 
-Open the project in **RStudio** (or your preferred R environment) and execute the desired scripts located inside:
+Open the project in **RStudio** (or another R environment) and execute the desired scripts within:
 
 ```text
 R Scripts/
 ```
 
-The repository contains scripts for generating:
+The repository includes workflows for generating:
 
-- Principal Component Analysis (PCA) plots
-- Population affinity visualizations
-- Interactive ancestry charts
-- Heatmaps
+- Principal Component Analysis (PCA)
+- Population affinity analyses
+- Interactive ancestry visualizations
+- Comparative ancestry matrices
 - Modified Monte Carlo ancestry models
 - Scaled Pastoral Neolithic analyses
-- Publication-ready figures
+- Publication-quality figures
 
-#### Modified nMonte Workflow
+## Modified nMonte Workflow
 
-To reproduce the customized Monte Carlo analyses exactly as performed in this project:
+To reproduce the customized ancestry models:
 
-1. Select the source and target datasets corresponding to the desired analysis.
-2. Rename them to:
+1. Select the desired source and target datasets.
+2. Rename them:
 
 ```text
 source.txt
 target.txt
 ```
 
-3. Place both files in the same working directory as:
+3. Place both files in the same directory as:
 
 ```text
 Modified_nMonte.R
 ```
 
-4. Execute the accompanying driver script contained within:
+4. Execute the accompanying driver script located in:
 
 ```text
 R Scripts/
 ```
 
-The modified implementation exports complete ancestry summaries, mixture proportions, and distance metrics for downstream visualization.
-
-Because the implementation prioritizes flexibility over speed, it may execute more slowly than standard ancestry-modeling tools.
+The modified implementation exports ancestry summaries, mixture proportions, and distance metrics for downstream analysis and visualization.
 
 # 📖 Related Research
 
-The complete analytical interpretation is available on **Anthromadness**.
-
-The accompanying article integrates the computational analyses presented throughout this repository with:
+The accompanying **Anthromadness** article expands upon the computational analyses presented throughout this repository by integrating evidence from:
 
 - Population genetics
 - Comparative linguistics
@@ -616,13 +520,11 @@ The accompanying article integrates the computational analyses presented through
 - Cultural anthropology
 - Historical documentation
 
-to investigate the Bronze-Age origins and dispersal of East Cushitic-speaking populations across Northeast Africa.
+Together, these disciplines provide the broader historical context for the computational findings presented here.
 
 # 📚 Selected References
 
-The accompanying research article synthesizes more than **100 scholarly sources** spanning multiple disciplines.
-
-These include research in:
+The accompanying research article synthesizes more than **100 scholarly sources** spanning:
 
 - Ancient DNA
 - Population genetics
@@ -630,10 +532,10 @@ These include research in:
 - Historical linguistics
 - Anthropology
 - Egyptology
-- Nubian Studies
+- Nubian studies
 - African history
 
-For the complete bibliography, please refer to [the accompanying Anthromadness article](https://anthromadness.blogspot.com/2025/11/east-cushites-were-in-sudan-and-egypt.html).
+For the complete bibliography, please refer to the accompanying **Anthromadness** article.
 
 # 📬 Contact Me
 
@@ -647,5 +549,8 @@ https://www.linkedin.com/in/awale-abdi/
 
 ---
 
+<div align="center">
 
-<center>The intersection of data science and anthropology provides an opportunity to investigate some of humanity's oldest questions using modern computational methods. This project represents one exploration of that intersection.</center>
+*Exploring humanity's past through computational analysis, statistical modeling, and interdisciplinary research.*
+
+</div>
