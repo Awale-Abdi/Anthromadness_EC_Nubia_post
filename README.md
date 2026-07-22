@@ -343,12 +343,6 @@ Across the computational models, East Cushitic-speaking populations consistently
 
 The project explores how these observations compare with archaeological and linguistic evidence discussed in the accompanying article.
 
-- ### Egyptian and Arabian Affinities
-
-Comparative analyses indicate that Egyptian and Arabian-related ancestry may reflect contributions from different historical periods rather than representing a single homogeneous ancestry component.
-
-This distinction becomes particularly important when interpreting later demographic events involving Ethiopian Semitic-speaking populations.
-
 - ### Population Continuity
 
 Several visualizations suggest varying degrees of continuity between ancient Northeast African populations and present-day populations of the Horn, while also illustrating evidence for later admixture events.
