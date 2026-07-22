@@ -663,4 +663,5 @@ https://www.linkedin.com/in/awale-abdi/
 
 ---
 
-<center>*The intersection of data science and anthropology provides an opportunity to investigate some of humanity's oldest questions using modern computational methods. This project represents one exploration of that intersection.*</center>
+
+<center>The intersection of data science and anthropology provides an opportunity to investigate some of humanity's oldest questions using modern computational methods. This project represents one exploration of that intersection.</center>
