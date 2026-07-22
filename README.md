@@ -2,7 +2,7 @@
 
 This repository showcases an **end-to-end computational anthropology and population genetics project** developed over nearly **one year** using **R**, **Eurogenes Global25**, **Microsoft Excel**, and **Inkscape**. I developed it to investigate competing hypotheses surrounding the Bronze-Age origins and dispersal of East Cushitic-speaking populations through statistical modeling, customized ancestry modeling, and interactive visualization.
 
-Although the project uses Northeast African population history as its case study, the analytical techniques I apply—including principal component analysis (PCA), statistical modeling, simulation, multivariate analysis, data transformation, visualization, and reproducible research—are broadly transferable across data science, analytics, and other data-intensive scientific disciplines.
+Although the project uses Northeast African population history as its case study, the analytical techniques I apply such as principal component analysis (PCA), statistical modeling, simulation, multivariate analysis, data transformation, visualization, and reproducible research are broadly transferable across data science, analytics, and other data-intensive scientific disciplines.
 
 Using **R**, customized computational workflows, and published population-genetics datasets, I integrated principal component analysis (PCA), modified Monte Carlo ancestry modeling, and interactive visualization to evaluate competing demographic scenarios and communicate the findings through publication-quality visualizations.
 
