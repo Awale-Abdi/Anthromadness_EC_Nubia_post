@@ -386,26 +386,16 @@ Accordingly, the analyses presented throughout this repository are intended to c
 
 This project demonstrates the ability to independently design, execute, and communicate a large-scale computational research project integrating quantitative analysis with interdisciplinary scientific evidence.
 
-Specifically, it showcases proficiency in:
+Specifically, it demonstrates the ability to:
 
-- Scientific programming in R
-- Multivariate statistical analysis
-- Principal Component Analysis (PCA)
-- Population-genetics visualization
-- Monte Carlo ancestry modeling
-- Simulation
-- Statistical interpretation
-- Interactive data visualization
-- Heatmap generation
-- Data transformation
-- Exploratory data analysis
-- Reproducible analytical workflows
-- Scientific literature synthesis
-- Technical writing
-- Publication-quality figure development
-- Communicating complex quantitative findings to diverse audiences
+- Design reproducible analytical workflows
+- Develop custom computational methodologies
+- Analyze high-dimensional population-genetics data
+- Integrate statistical modeling with interdisciplinary evidence
+- Produce publication-quality visualizations
+- Communicate complex scientific findings to technical and non-technical audiences
 
-Beyond the computational analyses themselves, the project also demonstrates the ability to integrate statistical evidence with archaeology, comparative linguistics, historical sources, craniometrics, and cultural anthropology to investigate complex questions in human population history.
+Beyond the computational analyses themselves, the project essentiually demonstrates the ability to synthesize evidence from population genetics, archaeology, comparative linguistics, craniometrics, and cultural anthropology, highlighting transferable analytical thinking and problem-solving skills that can be applied across a wide range of complex domains.
 
 # 🛠️ Technical Skills Demonstrated
 
